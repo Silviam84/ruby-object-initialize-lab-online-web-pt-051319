@@ -3,6 +3,6 @@ class person
     @name = person_name
   end
     
-  def persons_name
+  def name
     @name
      end
