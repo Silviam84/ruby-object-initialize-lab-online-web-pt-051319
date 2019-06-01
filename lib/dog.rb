@@ -1,3 +1,5 @@
 class Dog 
-  def Dog 
+  def Dog (dog_name)
+    #initialize
+  end
     
