@@ -3,3 +3,4 @@ class person
     @name
   end
     
+end
