@@ -1,4 +1,4 @@
-class person 
+class Person 
   def person=(persons-name)
     @name = person
   end
