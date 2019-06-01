@@ -3,5 +3,7 @@ class Dog
     #initialize
   end
   
-  
+  Dog#initialize
+  @breed
+end
     
