@@ -1,1 +1,3 @@
-class D
+class Dog 
+  def Dog 
+    
